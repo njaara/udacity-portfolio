@@ -1,6 +1,8 @@
 # Welcome to my Udacity portfolio.
 
-This is my portfolio for Udacity's Front-End Web Developer Nanodegree Program. It includes three sections:
+This is my portfolio for Udacity's Front-End Web Developer Nanodegree Program. 
+
+It includes three sections:
 
 1) About
 2) Featured Work
