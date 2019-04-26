@@ -1,5 +1,5 @@
-/* CHANGE FEATURED WORK/PORTFOLIO CONTENT + README */
 /* VERIFY CODE */
+/* FIX CONTACT INFO */
 
 S
 img, embed, object, video {
@@ -214,23 +214,21 @@ p {
   }
 
   .my-email {
-    width: 10%;
     font-size: 9px;
-    padding-right: 90px;
+    width: 20%;
+    padding: 0 50px 0 0;
   }
 
   .my-linkedin {
-    width: 10%;
     font-size: 9px;
-    padding-right: 95px;
-    padding-top: 9px;
+    width: 20%;
+    padding: 0 50px 0 0;
   }
 
   .my-twitter {
-    width: 10%;
     font-size: 9px;
-    padding-left: 8px;
-    padding-top: 9px;
+    width: 20%;
+    padding: 0 0 0 20px;
   }
 }
 
@@ -267,16 +265,18 @@ p {
   }
 
   .my-email {
-    padding-left: 20px;
+    font-size: 10px;
+    padding: 0 0 0 15px;
   }
 
-  .my-linkedin {
-    width: 8%;
+  .my-linkedin{
+    font-size: 10px;
+    padding: 0 0 0 50px;
   }
 
   .my-twitter {
-    width: 10%;
-    font-size: 9px;
+    font-size: 10px;
+    padding: 0 0 0 60px;
   }
 }
 
@@ -332,21 +332,18 @@ p {
   }
 
   .my-email {
-    width: 10%;
-    font-size: 9px;
-    padding-left: 50px;
+    font-size: 12px;
+    padding: 0 0 0 30px;
   }
 
   .my-linkedin {
-    width: 10%;
-    font-size: 9px;
-    padding-top: 9px;
+    font-size: 12px;
+    padding: 0 0 0 55px;
   }
 
   .my-twitter {
-    width: 10%;
-    font-size: 9px;
-    padding-top: 9px;
+    font-size: 12px;
+    padding: 0 0 0 55px;
   }
 }
 
@@ -469,19 +466,18 @@ p {
   }
 
   .my-email {
-    font-size: 13px;
-    width: 20%;
-    padding-left: 30px;
+    font-size: 16px;
+    padding: 0 0 0 55px;
   }
 
   .my-linkedin {
-    font-size: 13px;
-    width: 16%;
+    font-size: 16px;
+    padding: 0 0 0 70px;
   }
 
   .my-twitter {
-    font-size: 13px;
-    width: 20%;
+    font-size: 16px;
+    padding: 0 0 0 70px;
   }
 }
 
@@ -569,20 +565,17 @@ p {
   }
 
   .my-email {
-    font-size: 15px;
-    width: 16%;
-    padding-left: 50px;
+    font-size: 19px;
+    padding: 0 0 0 50px;
   }
 
   .my-linkedin {
-    font-size: 15px;
-    width: 18%;
-    padding: 15px 0 0 18px;
+    font-size: 19px;
+    padding: 0 0 0 90px;
   }
 
   .my-twitter {
-    font-size: 15px;
-    width: 20%;
-    padding-top: 13px;
+    font-size: 19px;
+    padding: 0 0 0 70px;
   }
 }
